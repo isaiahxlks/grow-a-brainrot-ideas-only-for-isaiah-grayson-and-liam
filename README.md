@@ -10,7 +10,7 @@
 
   ## WILL THIS EVER BE OPEN-SOURCE
   - Sure, This Can be open-source for people who need help on their game ideas.
-<img src="https://img.freepik.com/free-vector/trophy_78370-345.jpg?semt=ais_hybrid&amp;w=740&amp;q=80" alt="Trophy clip art Images - Free Download on Freepik"/><img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/53c98db1-fe0d-4bce-b916-1fd1892ea62a" />
+<img src="https://thumbs.dreamstime.com/b/golden-trophy-ornate-engravings-featuring-large-handles-small-figure-top-cup-has-decorative-circular-patterns-393151793.jpg" alt="Small Trophy Stock Illustrations – 1,590 Small Trophy Stock ..."/><img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3868f728-4256-4746-8675-08a74d572f4b" />
 
  
 Won, for One Of the best Repositories.
