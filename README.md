@@ -10,7 +10,7 @@
 
   ## WILL THIS EVER BE OPEN-SOURCE
   - Sure, This Can be open-source for people who need help on their game ideas.
-<img src="https://thumbs.dreamstime.com/b/golden-tr
+
 
  
 Won, for One Of the best Repositories.
